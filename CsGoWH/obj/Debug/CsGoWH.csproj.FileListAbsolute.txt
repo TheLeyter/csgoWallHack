@@ -1,0 +1,10 @@
+C:\Users\vlopa\source\repos\CsGoWH\bin\Debug\CsGoWH.exe.config
+C:\Users\vlopa\source\repos\CsGoWH\bin\Debug\CsGoWH.exe
+C:\Users\vlopa\source\repos\CsGoWH\bin\Debug\CsGoWH.pdb
+C:\Users\vlopa\source\repos\CsGoWH\obj\Debug\CsGoWH.csprojAssemblyReference.cache
+C:\Users\vlopa\source\repos\CsGoWH\obj\Debug\CsGoWH.Form1.resources
+C:\Users\vlopa\source\repos\CsGoWH\obj\Debug\CsGoWH.Properties.Resources.resources
+C:\Users\vlopa\source\repos\CsGoWH\obj\Debug\CsGoWH.csproj.GenerateResource.cache
+C:\Users\vlopa\source\repos\CsGoWH\obj\Debug\CsGoWH.exe
+C:\Users\vlopa\source\repos\CsGoWH\obj\Debug\CsGoWH.pdb
+C:\Users\vlopa\source\repos\CsGoWH\obj\Debug\CsGoWH.Overlay.resources
